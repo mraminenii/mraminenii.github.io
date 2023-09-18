@@ -19,3 +19,29 @@
 #animated-text {
   font-size: 24px;
 }
+
+
+
+.code-section {
+  background-color: #282c34;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  font-family: 'Courier New', monospace;
+}
+
+.comment {
+  color: #5C6370;
+}
+
+.keyword {
+  color: #c678dd;
+}
+
+.string {
+  color: #98c379;
+}
+
+.value {
+  color: #d19a66;
+}
